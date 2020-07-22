@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\bin\Debug\BLL_ProjetoFinalDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\bin\Debug\BLL_ProjetoFinalDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\bin\Debug\DAL_ProjetoFinalDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\bin\Debug\DTO_ProjetoFinalDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\bin\Debug\DAL_ProjetoFinalDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\bin\Debug\DTO_ProjetoFinalDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\obj\Debug\BLL_ProjetoFinalDS_EAD.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\obj\Debug\BLL_ProjetoFinalDS_EAD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\obj\Debug\BLL_ProjetoFinalDS_EAD.csproj.CopyComplete
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\obj\Debug\BLL_ProjetoFinalDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoFinalDS_EAD\BLL_ProjetoFinalDS_EAD\obj\Debug\BLL_ProjetoFinalDS_EAD.pdb
